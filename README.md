@@ -1,4 +1,3 @@
-```markdown
 # AR-Vocab-App
 
 AR-Vocab-App is an open-source, in-development learning project that helps learners study vocabulary using Augmented Reality (AR). The app links words to 3D objects or AR labels, plays pronunciation audio, shows definitions and examples, and provides interactive study modes (flashcards, quizzes, pronunciation practice). This repository is a personal learning project — contributions from developers with AR/mobile experience are very welcome.
@@ -129,4 +128,3 @@ Thank you for working on this learning project — AR-based vocabulary learning 
 - Produce ISSUE_TEMPLATE / PULL_REQUEST_TEMPLATE files
 - Draft a LICENSE file (e.g., MIT) and a CODE_OF_CONDUCT
 
-```
